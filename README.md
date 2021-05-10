@@ -34,4 +34,5 @@ Add additional notes about how to deploy this on a live system
 
 ## References
 
-[1] Coppersmith G., Dredze M., and Harman C.(2014, May) Quantifying mental health signals in twitter. In The Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal To Clinical Reality, pages 51–60
+[1] Shen, G., Jia, J., Nie, L., Feng, F., Zhang, C., Hu, T., Chua, T.-S. and Zhu, W. 2017. Depression Detection via Harvesting Social Media: A Multimodal Dictionary Learning Solution. (2017), 3838–3844.
+
