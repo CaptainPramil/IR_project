@@ -10,20 +10,6 @@ Depression is major cause of many disease and there are majority of people(70%) 
 
 The dataset is taken from the [1]. We are using a subset of this dataset. It consists of social media details about the users such as social network features, profile details, visual features, emotion features, topic level features, domain and user specific features. The dataset has been divided into negative and positive data on the basis of whether the user was found to be positive or negative for depression. We extract and combine all the tweets posted by the users and then divide the tweets in sets of 20.
 
-## Getting Started
-
-These instructions will enable the user to access the code easily for development and testing purposes.
-
-### Prerequisites
-
-```
-Give examples
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Authors
 
 * **Pramil Panjawani** 
